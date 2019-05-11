@@ -3,7 +3,7 @@ code for final project
 
 # First part: Several Different CNN models
 
-Download CIFAR10 dataset (.mat) files from official website, put together with these code files. And the name indicates which CNN structure we use. E.g: "resid.m" means ResNet; "deep_resid.m" means Deeper ResNet.
+Download CIFAR10 dataset (.mat) files from official website, put together with these code files. And the name indicates which CNN structure we use. E.g: "resid.m" means ResNet; "deep_resid.m" means Deeper ResNet. Run "cifar10_preparation.m" first to get the dataset ready, then feel free to run those models to reproduce our outcomes.
 
 ***
 # Transfer Learning in image recognition
